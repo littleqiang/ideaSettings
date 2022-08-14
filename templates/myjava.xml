@@ -1,5 +1,5 @@
 <templateSet group="myjava">
-  <template name="cdt" value=" Condition condition = new Condition(COilPrice.class);&#10;        condition.createCriteria()&#10;                .andEqualTo(&quot;isDeleted&quot;, false);" toReformat="false" toShortenFQNames="true">
+  <template name="cdt" value=" Condition condition = new Condition(COilPrice.class);&#10;        condition.createCriteria()&#10;                .andEqualTo(&quot;isDeleted&quot;, false);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
