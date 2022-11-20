@@ -30,6 +30,10 @@
           <option name="url" value="http://git.manjitech.com/ryanwang/hoe_all_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.manjitech.com/DRG/hoe_data_sync.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/01_WorkProject/03_MANJITECH/hoe" />
